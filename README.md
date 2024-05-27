@@ -21,7 +21,7 @@ scikit-learn
 pip install pandas numpy matplotlib seaborn scikit-learn
 Usage
 # Clone the repository:
-git clone https://github.com/yourusername/heart_disease_prediction.git
+git clone https://github.com/ummefahad/Heart-Disease-Prediction.git
 # Navigate to the project directory:
 cd heart_disease_prediction
 
